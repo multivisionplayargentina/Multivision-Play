@@ -24,6 +24,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7gwokZgKcM4LEq3tl+xi5E"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/elnueve.png",
+        "name": "9",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM05HyBTHGFAlhjPPFu9dNInYtregPBoH8XQ/+P1bJmrBfcHSi/mw8ELUhkrzsNHuhg",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aXIg5uiDlb/7GB2gQgiZx"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
@@ -94,11 +101,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6fQ3LgQcs8Ry+peiinhN/C"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/elnueve.png",
-        "name": "9",
+        "icon": "http://static.tvar.io/imagenes/lanacion.png",
+        "name": "LN+",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM05HyBTHGFAlhjPPFu9dNInYtregPBoH8XQ/+P1bJmrBfcHSi/mw8ELUhkrzsNHuhg",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aXIg5uiDlb/7GB2gQgiZx"
+        "uri": "b+QSGe9itEwwoKyzCS+bM8DCbR2aHUsQIwv5FFabNebLLSpgGARk14OREMiMDc4gwdGdQ0E7YstiOQFzGcX1Kf0H2M3momFeRRkp3WSBLQg",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7SH0R/I/4Iz028K+ux0Elo"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tn.png",
@@ -113,13 +120,6 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8vkxQ1K3YSOimY7+mVhZsbVHpVaLlhH+O1ZFNP6s3CUX1ylF3LuXsrNLIKUJCrJt5Si6GkntOjagEjYzFH2YZU",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l65NBr98lZlBvPLNCTyEx7O"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/lanacion.png",
-        "name": "LN+",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM8DCbR2aHUsQIwv5FFabNebLLSpgGARk14OREMiMDc4gwdGdQ0E7YstiOQFzGcX1Kf0H2M3momFeRRkp3WSBLQg",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7SH0R/I/4Iz028K+ux0Elo"
       },
       {
         "icon": "https://lavozargentina.com/logochico.png",
