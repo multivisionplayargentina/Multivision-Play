@@ -178,7 +178,12 @@
         "uri": "b+QSGe9itEwwoKyzCS+bMyIiDMokjIhSfU3vyjMFGsn5Wu1mP0C8cX4H4R3ZCoOC74K3Xb4nJJR6Aju069EyahqrPOoHQOZS9kG8dTL8R10",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6nnNyLOlEEPNFM4HyuvlzV"
         },
-       {
+        {
+        "icon": "https://ipuntotv.com/IMAGES/Mi-tierra-TV--logo.jpg",
+        "name": "TIERRA MIA",
+        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBwRFBrxTubMEG1PUs94EoaaWb3AESW8sDmIERkNsi0oGC5VcKemNZ/moJaXvuSXKUI="
+        },
+        {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
         "name": "TELEFE CORDOBA",
         "drm_scheme": "clearkey",
