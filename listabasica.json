@@ -3,6 +3,11 @@
     "name": "ARGENTINA",
     "samples": [
       {
+        "icon": "http://static.tvar.io/imagenes/multivisioncable.jpg",
+        "name": "MULTIVISON CABLE",
+        "uri": "43Uh2EueAWUSlzIETlSAFsh3YLDEV+EPwXA6Jw1xcd2qK9XGMF06ntRJjM+seIOk4U9BVBCYnouRaCgCiJUGffh0SH8Kczc/K+q+HRTEnH8ZKH8q/HeZBan9x2/jIa8w"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/americatv.png",
         "name": "AMERICA TV",
         "drm_scheme": "clearkey",
