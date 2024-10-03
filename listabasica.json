@@ -477,7 +477,14 @@
         "icon": "https://i.ibb.co/h1pHX7w/descarga.jpg",
         "name": "SILVER CHANNEL",
         "uri": "OawObmdbO8b2z4aYfF3WsTwcjEZMU9E81UB96dH3qBOK2Ei2HkWA0XenOSABCeFVewTsKED/+RsAU3gdkr7BBHuvpUsyKKwT6xgaCmXRSF4"
-    }
+    },
+    {
+        "icon": "http://static.tvar.io/imagenes/euroch.png",
+        "name": "EURO CHANNEL",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bMxZOt0QRuqBcCAsB1khPXodjuu9P+wu3worHvdcEY9Gh6OdTMY2gpRm3QTQyGUkR0rJ4Xac+rjMGGWO8i84Q+0Y",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ZP2uAcN4V8/lM/X5CXTwB"
+      }
     ]
   }
 ]
