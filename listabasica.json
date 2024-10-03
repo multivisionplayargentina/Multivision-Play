@@ -171,14 +171,21 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4J8kstWg0RaNY3WGZSvc2GN+DkpWTiRPU/xNCUrs4dEQ"
        },
-          {
+       {
+        "icon": "http://static.tvar.io/imagenes/chluz.png",
+        "name": "LUZ",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bMyIiDMokjIhSfU3vyjMFGsn5Wu1mP0C8cX4H4R3ZCoOC74K3Xb4nJJR6Aju069EyahqrPOoHQOZS9kG8dTL8R10",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6nnNyLOlEEPNFM4HyuvlzV"
+        },
+       {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
         "name": "TELEFE CORDOBA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpDhkY22FMSpjVpcuipW+ERO0ZKPLeELEj/St9dzu8sO4vbYln258eWhY4zGLA9JHiQ",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6Xir2gjvtrEThFXNWM+jWn"
-    },
-    {
+       },
+       {
         "icon": "http://static.tvar.io/imagenes/canal12cba.jpg",
         "name": "12 CORDOBA",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpBx1NW8VkkLpx2r2TiG0z5/x5ZdehW7aMcmWjfGGSJrBS426to9KVYewUqEVlDNJ84",
