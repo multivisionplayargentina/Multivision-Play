@@ -8,11 +8,11 @@
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
       },
       {
-        "name": "AMERICA TV HD",
-        "uri": "YY0e1QQrTMP+OEHpa5Sr0Qr8CEgvFwxqzkVEjtOx4TmjClBZqY0GOU0L8OlW2jC7/3cAw9hT2sqgTwT+uyIpbcg7uSswI3tCouk85dJddJ4=",
+        "icon": "http://static.tvar.io/imagenes/americatv.png",
+        "name": "AMERICA TV",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "0RjFW6k2PwDsQhYehlLTTkljvupitqCAWM2QBJIdFMVzXgKDoztlotvHNWvimb+cD6dDypcsqJyz5Nh2lTcSHY8rBVudSB9LbslgEidyytla8YEWsxnff8RL+W/0iO8EhR2ZTUyANkIQUwKR12rvZP+fYpcZ56qHsII5rfyep8MFyhu+zSAI5f/Zn6GJdzXxveoR5u4nX4hjKguWqz20Og==",
-        "icono": "https://i.ibb.co/cNXpgSJ/america.png"
+        "uri": "YY0e1QQrTMP+OEHpa5Sr0Qr8CEgvFwxqzkVEjtOx4TmjClBZqY0GOU0L8OlW2jC7/3cAw9hT2sqgTwT+uyIpbcg7uSswI3tCouk85dJddJ4=",
+        "drm_license_url": "0RjFW6k2PwDsQhYehlLTTkljvupitqCAWM2QBJIdFMVzXgKDoztlotvHNWvimb+cD6dDypcsqJyz5Nh2lTcSHY8rBVudSB9LbslgEidyytla8YEWsxnff8RL+W/0iO8EhR2ZTUyANkIQUwKR12rvZP+fYpcZ56qHsII5rfyep8MFyhu+zSAI5f/Zn6GJdzXxveoR5u4nX4hjKguWqz20Og=="
       }
      ]
   }
